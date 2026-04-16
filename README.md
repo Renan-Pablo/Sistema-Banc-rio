@@ -30,4 +30,4 @@ Este projeto será atualizado constantemente como parte da minha jornada de apre
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por RENAN PABLO
